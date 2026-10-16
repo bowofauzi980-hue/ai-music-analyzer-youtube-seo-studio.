@@ -1,0 +1,6 @@
+streamlit>=1.36,<2
+requests>=2.31,<3
+numpy>=1.26,<3
+librosa>=0.10.2,<1
+soundfile>=0.12,<1
+faster-whisper>=1.0,<2
